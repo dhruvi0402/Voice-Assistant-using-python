@@ -1,0 +1,1 @@
+This project is a voice-controlled virtual assistant built using Python. It utilizes tools like `pyttsx3` for text-to-speech, `speech_recognition` for capturing voice commands, and `wikipedia` for information retrieval. The assistant can perform tasks such as web browsing, music playback, and providing the current time.
